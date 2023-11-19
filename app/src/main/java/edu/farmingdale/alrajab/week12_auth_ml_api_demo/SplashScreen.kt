@@ -3,6 +3,7 @@ package edu.farmingdale.alrajab.week12_auth_ml_api_demo
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.google.firebase.FirebaseApp
 import kotlinx.coroutines.*
 
 class SplashScreen : AppCompatActivity() {
@@ -13,6 +14,7 @@ class SplashScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_screen)
         setActionBar(null)
+
 
         activityScope.launch {
             delay(4000)

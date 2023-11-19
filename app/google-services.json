@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660317039734",
+    "project_id": "realtimedbassignmentandroid",
+    "storage_bucket": "realtimedbassignmentandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660317039734:android:caa83488d98977b349c357",
+        "android_client_info": {
+          "package_name": "edu.farmingdale.alrajab.week12_auth_ml_api_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660317039734-rrjmmkbblopq0le1qfr0vuteh5m4na6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.farmingdale.alrajab.week12_auth_ml_api_demo",
+            "certificate_hash": "85a8ad4343035ca2c8e5ab15a7140a58b66ab83a"
+          }
+        },
+        {
+          "client_id": "660317039734-uqcdv6iohf5rbokorko7ru94bgulikj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTAq4LK-2HeWCPjX0vR6NI-Envrxwls0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660317039734-uqcdv6iohf5rbokorko7ru94bgulikj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
